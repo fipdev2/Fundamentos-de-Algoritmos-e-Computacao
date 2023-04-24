@@ -23,9 +23,5 @@ int main() {
   printf(" _________________________________ \n|Os percentuais de lucro sao:     |\n|=> suco: %1.f%% \t=> refresco: %.1f%%|\n _________________________________ ", percento_suco, percento_refresco);
   
   
-
-  
-  
-  
   return 0;
 }
