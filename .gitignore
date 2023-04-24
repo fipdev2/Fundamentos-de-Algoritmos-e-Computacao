@@ -1,3 +1,3 @@
 .vscode
-./'Entrada e Saída'/output
-.*exe
+'Entrada e Saída'/output
+*.exe
