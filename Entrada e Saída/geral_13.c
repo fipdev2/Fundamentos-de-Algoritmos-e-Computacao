@@ -5,8 +5,6 @@ int main(void) {
   float qntd_suco, qntd_refresco, concentrado;
   float lucro_suco, lucro_refresco, percento_suco, percento_refresco;
   
-
-  
   printf("Informe a quantidade de litros que tem seu concentrado\n");
   scanf("%f", &concentrado);
 
